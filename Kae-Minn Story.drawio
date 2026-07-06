@@ -28,8 +28,8 @@
             <mxPoint x="940" y="513" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="qDZ2SGpANuDxGcVs4Ad5-3" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=default;fillColor=default;align=center;verticalAlign=middle;rounded=0;imageAspect=1;autosize=1;fixedWidth=1;resizeHeight=1;" value="The boss summons Kae-Minn to his chambers" vertex="1">
-          <mxGeometry height="30" width="270" x="890" y="315" as="geometry" />
+        <mxCell id="qDZ2SGpANuDxGcVs4Ad5-3" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=default;fillColor=default;align=center;verticalAlign=middle;rounded=0;imageAspect=1;autosize=1;fixedWidth=1;resizeHeight=1;" value="&lt;div&gt;&lt;b&gt;Event&lt;/b&gt;&lt;/div&gt;&lt;div&gt;The Boss summons Kae-Minn to his chambers&lt;/div&gt;" vertex="1">
+          <mxGeometry height="40" width="270" x="890" y="310" as="geometry" />
         </mxCell>
         <mxCell id="qDZ2SGpANuDxGcVs4Ad5-4" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=default;fillColor=default;align=center;verticalAlign=middle;rounded=0;imageAspect=1;autosize=1;fixedWidth=1;resizeHeight=1;" value="&lt;div&gt;&lt;b&gt;Event&lt;/b&gt;&lt;/div&gt;&lt;div&gt;The pirates flee on a hydrofoil motorboat&lt;/div&gt;&lt;div&gt;Kae-Minn orders Meredith to bring&amp;nbsp;&lt;/div&gt;" vertex="1">
           <mxGeometry height="60" width="280" x="883" y="720" as="geometry" />
