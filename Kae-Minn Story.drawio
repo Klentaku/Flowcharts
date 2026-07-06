@@ -1,28 +1,28 @@
 <mxfile host="app.diagrams.net" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36">
   <diagram name="Page-1" id="2YBvvXClWsGukQMizWep">
-    <mxGraphModel dx="710" dy="368" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="687" dy="356" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="WD_lBp7OyrhRz48vkECi-2" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=default;fillColor=default;align=center;verticalAlign=middle;rounded=0;imageAspect=1;autosize=1;fixedWidth=1;resizeHeight=1;" value="&lt;div align=&quot;center&quot;&gt;&lt;b style=&quot;background-color: light-dark(#ffffff, var(--ge-dark-color, #121212));&quot;&gt;Cause&lt;/b&gt;&lt;/div&gt;&lt;div align=&quot;center&quot;&gt;&lt;span style=&quot;background-color: light-dark(#ffffff, var(--ge-dark-color, #121212));&quot;&gt;Kae-Minn is to oversee a weapons smuggling op between Chaebol and an up-and-coming pirate group.&lt;/span&gt;&lt;br&gt;&lt;br&gt;She is to shadow the trade and verify that everything goes smoothly.&lt;/div&gt;&lt;div align=&quot;center&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;center&quot;&gt;An important officer of the syndicate is leading the exchange.&lt;/div&gt;" vertex="1">
-          <mxGeometry height="160" width="280" x="260" y="85" as="geometry" />
+        <mxCell id="WD_lBp7OyrhRz48vkECi-2" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=default;fillColor=default;align=center;verticalAlign=middle;rounded=0;imageAspect=1;autosize=1;fixedWidth=1;resizeHeight=1;labelPosition=center;verticalLabelPosition=middle;" value="&lt;div align=&quot;center&quot;&gt;&lt;font style=&quot;font-size: 6px;&quot;&gt;&lt;b style=&quot;background-color: light-dark(#ffffff, var(--ge-dark-color, #121212));&quot;&gt;Cause&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div align=&quot;center&quot;&gt;&lt;font style=&quot;font-size: 6px;&quot;&gt;&lt;span style=&quot;background-color: light-dark(#ffffff, var(--ge-dark-color, #121212));&quot;&gt;Kae-Minn is to oversee a weapons smuggling op between Chaebol and an up-and-coming pirate group.&lt;/span&gt;&lt;br&gt;&lt;br&gt;She is to shadow the trade and verify that everything goes smoothly.&lt;/font&gt;&lt;/div&gt;&lt;div align=&quot;center&quot;&gt;&lt;font style=&quot;font-size: 6px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div align=&quot;center&quot;&gt;&lt;font style=&quot;font-size: 6px;&quot;&gt;An important officer of the syndicate is leading the exchange.&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="95" width="266" x="260" y="115" as="geometry" />
         </mxCell>
-        <mxCell id="WD_lBp7OyrhRz48vkECi-3" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=default;fillColor=default;align=center;verticalAlign=middle;rounded=0;" value="&lt;div align=&quot;center&quot;&gt;&lt;b&gt;Reason&lt;/b&gt;&lt;/div&gt;&lt;div align=&quot;center&quot;&gt;The group has been building trust with Chaebol for some time now. Chaebol does not get its equipment directly from the corps, but from shell groups within shell groups.&amp;nbsp;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="90" width="280" x="90" y="270" as="geometry" />
+        <mxCell id="WD_lBp7OyrhRz48vkECi-3" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=default;fillColor=default;align=center;verticalAlign=middle;rounded=0;" value="&lt;div align=&quot;center&quot;&gt;&lt;font style=&quot;font-size: 6px;&quot;&gt;&lt;b&gt;Reason&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div align=&quot;center&quot;&gt;&lt;font style=&quot;font-size: 6px;&quot;&gt;The group has been building trust with Chaebol for some time now. Chaebol does not get its equipment directly from the corps, but from shell groups within shell groups.&amp;nbsp;&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="90" width="280" x="40" y="250" as="geometry" />
         </mxCell>
-        <mxCell id="WD_lBp7OyrhRz48vkECi-7" edge="1" parent="1" source="WD_lBp7OyrhRz48vkECi-2" style="endArrow=classic;html=1;rounded=0;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="WD_lBp7OyrhRz48vkECi-3" value="">
-          <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="400" y="220" as="sourcePoint" />
-            <mxPoint x="450" y="170" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="WD_lBp7OyrhRz48vkECi-10" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=default;fillColor=default;align=center;verticalAlign=middle;rounded=0;imageAspect=1;autosize=1;fixedWidth=1;resizeHeight=1;" value="&lt;div&gt;&lt;b&gt;Event&lt;/b&gt;&lt;/div&gt;&lt;div&gt;The exchange is being held in the harbor at an unused loading dock. Cargo containers are everywhere, obscuring the view.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Kae-Minn is perched on a loading crane, watching from out of view of the pirates.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;The exchange is performed and the money is handed over, but the pirates suddenly double cross the team.&amp;nbsp;Multiple of their units emerge from the cargo containers nearby, opening fire. The officer is killed instantly. Kae-Minn fi&lt;/div&gt;" vertex="1">
-          <mxGeometry height="200" width="280" x="260" y="380" as="geometry" />
+        <mxCell id="WD_lBp7OyrhRz48vkECi-10" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=default;fillColor=default;align=center;verticalAlign=middle;rounded=0;imageAspect=1;autosize=1;fixedWidth=1;resizeHeight=1;" value="&lt;div&gt;&lt;font style=&quot;font-size: 6px;&quot;&gt;&lt;b&gt;Event&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 6px;&quot;&gt;The exchange is being held in the harbor at an unused loading dock. Cargo containers are everywhere, obscuring the view.&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 6px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 6px;&quot;&gt;Kae-Minn is perched on a loading crane, watching from out of view of the pirates.&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 6px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 6px;&quot;&gt;The exchange is performed and the money is handed over, but the pirates suddenly double cross the team.&amp;nbsp;Multiple of their units emerge from the cargo containers nearby, opening fire. The officer is killed instantly. Kae-Minn fi&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="140" width="280" x="260" y="410" as="geometry" />
         </mxCell>
         <mxCell id="WD_lBp7OyrhRz48vkECi-12" edge="1" parent="1" source="WD_lBp7OyrhRz48vkECi-2" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="WD_lBp7OyrhRz48vkECi-10" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
             <mxPoint x="420" y="410" as="sourcePoint" />
             <mxPoint x="470" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2lVWURBgC8E-njB588qe-1" edge="1" parent="1" source="WD_lBp7OyrhRz48vkECi-2" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="WD_lBp7OyrhRz48vkECi-3" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="350" y="250" as="sourcePoint" />
+            <mxPoint x="400" y="200" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
